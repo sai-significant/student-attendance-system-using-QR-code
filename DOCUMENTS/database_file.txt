@@ -1,0 +1,15 @@
+create database emp_attendance;
+use emp_attendance;
+
+create table mark_attendance(employeeID varchar(30),
+attended_date date);
+
+create table employee_details(employeeID varchar(30),
+empployeeName varchar(40),
+phoneNo varchar(12),
+designation varchar(40),
+emp_salary double);
+
+
+
+
