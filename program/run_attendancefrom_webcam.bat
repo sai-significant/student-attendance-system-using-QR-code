@@ -1,0 +1,2 @@
+python WebcamAttendance.py
+pause
